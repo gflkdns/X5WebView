@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/X5WebView.iml" filepath="$PROJECT_DIR$/X5WebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/app.iml" filepath="$PROJECT_DIR$/sample/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x5webviewlib/x5webviewlib.iml" filepath="$PROJECT_DIR$/x5webviewlib/x5webviewlib.iml" />
+    </modules>
+  </component>
+</project>
