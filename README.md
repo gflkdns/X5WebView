@@ -15,6 +15,6 @@
 	}
 
 
-	dependencies {
-	        compile 'com.github.MiQt:X5WebView:v1.0'
+        dependencies {
+	        compile 'com.github.MiQt:X5WebView:v2.6'
 	}
