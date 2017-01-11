@@ -4,13 +4,9 @@
   
 注意包名引用：import com.tencent.smtt.sdk.WebView;  
   
-主要使用TBS（腾讯浏览服务）X5内核。  
-  
-获取：  
-  
-① http://x5.tencent.com/  
+主要使用TBS（腾讯浏览服务）X5内核。 http://x5.tencent.com/  
 
-② [![](https://jitpack.io/v/MiQt/X5WebView.svg)](https://jitpack.io/#MiQt/X5WebView)
+[![](https://jitpack.io/v/MiQt/X5WebView.svg)](https://jitpack.io/#MiQt/X5WebView)
 
 	allprojects {
 		repositories {
